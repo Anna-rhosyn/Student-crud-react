@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ .home {
+  background: url("https://openeducat.org/theme_openeducat/static/src/img/home_page/main-banner-img.svg") no-repeat ; background-size:  center center fixed; background-position: center;
+  min-width: 100%;
+  min-height: 100%;
+  /* opacity: 0.8; */
+ 
+ } 
+/* .content-home{
+   position: relative; 
+} */
